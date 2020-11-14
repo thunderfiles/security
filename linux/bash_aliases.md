@@ -11,6 +11,7 @@ alias su='sudo su'
 alias update='sudo apt update'
 alias cls='clear'
 alias newalias='nano ~/.bash_aliases'
+alias mexc='chmod +x'
 
 ## Network
 alias ifconfig='sudo ifconfig'
